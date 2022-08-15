@@ -4,7 +4,7 @@ Contain all projects of gitub and kaggle
 These are my top notebooks. I have covered alot of machine learning and deep learning algorithms. 
 
 ## Data Science Projects
-### 1. Machine Leanring
+### 1. Machine Learning
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | Sastaticket Competition | • Time Series | Decision Tree  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
