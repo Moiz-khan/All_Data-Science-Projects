@@ -8,7 +8,9 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | Sastaticket Competition | • Time Series | Decision Tree  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
-| 2. | BCG Academic | • Energy and Electricity |  | https://github.com/Moiz-khan/Data_Science/tree/master/Internships/BCG_academicWork_Internship | <br />
+| 2. | 30 Days ML by Kaggle | • Tabular Data • Regression | • Decision Tree • SVM • Catboost • Linear Regression |https://www.kaggle.com/code/moizkhan11/30-days-ml-competition |<br />
+| 3. | Housing Price Competition | • Regression | • Random Forest | https://www.kaggle.com/code/moizkhan11/exercise-house-price-top-15 | <br />
+| 4. | BCG Academic | • Energy and Electricity |  | https://github.com/Moiz-khan/Data_Science/tree/master/Internships/BCG_academicWork_Internship | <br />
 
 
 ### 2. Recommendation Engine
@@ -22,6 +24,8 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | UltraMnist | Complex Images with many numbers • Classification | • CNN | Update Soon | <br />
+| 2. | Digit Recognizer | Number Image • Classification | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |<br />
+| 3. | Pakistan Stock Exchange (KSE 100) | Time Series | • LSTM | https://www.kaggle.com/code/moizkhan11/pakistanstockexch |<br/>
 
 ### 4. Natural Language Processing
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
