@@ -8,7 +8,7 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | Sastaticket Competition | • Time Series | Decision Tree  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
-| 2. | BCG Academic | • Energy and electricity |  | https://github.com/Moiz-khan/Data_Science/tree/master/Internships/BCG_academicWork_Internship | <br />
+| 2. | BCG Academic | • Energy and Electricity |  | https://github.com/Moiz-khan/Data_Science/tree/master/Internships/BCG_academicWork_Internship | <br />
 
 
 ### 2. Recommendation Engine
