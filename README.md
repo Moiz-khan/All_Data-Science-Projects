@@ -13,8 +13,9 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 ### 2. Recommendation Engine
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
-| 1. | Sastaticket Competition | • Time Series | Decision Tree  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
-| 2. | UltraMnist | Complex Images with many numbers • Classification | • CNN | Update Soon | <br />
+| 1. | Movie Recommender with KNN | • tmdb_5000 credits | KNN  | - | <br />
+| 2. | Content based Movie Recommender | • tmdb_5000 movies | • sigmoid score  • TfidfVectorizer | - | <br />
+| 3. | Movie Recommender with CSR | • tmdb_5000 movies | • cosine similarity | - | <br />
 
 ### 3. Deep Leanring
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
