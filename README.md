@@ -36,5 +36,5 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 ### 5. Research
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
-| 1. | LSTM Research | • None | LSTM  | https://github.com/Moiz-khan/Data_Science/tree/master/LSTM_Research | <br />
+| 1. | LSTM Research | • Pakistan Stock Exchange | LSTM  | https://github.com/Moiz-khan/Data_Science/tree/master/LSTM_Research | <br />
 
