@@ -8,7 +8,7 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | Sastaticket Competition | • Time Series | Decision Tree  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
-| 2. | UltraMnist | Complex Images with many numbers • Classification | • CNN | Update Soon | <br />
+
 
 ### 2. Recommendation Engine
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
@@ -20,14 +20,13 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 ### 3. Deep Leanring
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
-| 1. | Sastaticket Competition | • Time Series | Decision Tree  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
-| 2. | UltraMnist | Complex Images with many numbers • Classification | • CNN | Update Soon | <br />
+| 1. | UltraMnist | Complex Images with many numbers • Classification | • CNN | Update Soon | <br />
 
 ### 4. Natural Language Processing
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
-| 1. | Sastaticket Competition | • Time Series | Decision Tree  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
-| 2. | UltraMnist | Complex Images with many numbers • Classification | • CNN | Update Soon | <br />
+| 1. | Self Learning | • Product Reviews | Pretrained Bert  | https://colab.research.google.com/drive/1cplJE-1lEK3P0HuPgAnZFcX_2lTJHlcy#scrollTo=Bl6hZTVJpElF | <br />
+
 
 ### 5. Research
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
