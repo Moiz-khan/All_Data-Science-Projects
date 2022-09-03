@@ -1,5 +1,5 @@
 # All_Data-Science-Projects
-Contain all projects of gitub and kaggle
+Contain all measure projects of gitub and kaggle
 
 These are my top notebooks. I have covered alot of machine learning and deep learning algorithms. 
 
