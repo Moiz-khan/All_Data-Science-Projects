@@ -30,7 +30,7 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 ### 4. Natural Language Processing
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
-| 1. | Self Learning | • Product Reviews classification • SPAM classification | • Pretrained Bert • Fine-Tuning Bert  | 1. https://colab.research.google.com/drive/1cplJE-1lEK3P0HuPgAnZFcX_2lTJHlcy#scrollTo=4IYEcsvJpR2A 2. https://colab.research.google.com/drive/187pa9OGauupyUWNB-xg2d8RXp1dvQcrM | <br />
+| 1. | Self Learning | • Product Reviews classification •SPAM classification | •Pretrained Bert • Fine-Tuning Bert  | 1. https://colab.research.google.com/drive/1cplJE-1lEK3P0HuPgAnZFcX_2lTJHlcy#scrollTo=4IYEcsvJpR2A <br />2. https://colab.research.google.com/drive/187pa9OGauupyUWNB-xg2d8RXp1dvQcrM | <br />
 
 
 ### 5. Research
