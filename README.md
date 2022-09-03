@@ -7,7 +7,7 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 ### 1. Machine Learning
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
-| 1. | Sastaticket Competition | • Time Series | LSTM  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
+| 1. | Sastaticket Competition- **2nd Runnerup** | • Time Series | LSTM  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
 | 2. | 30 Days ML by Kaggle | • Tabular Data • Regression | • Decision Tree • SVM • Catboost • Linear Regression |https://www.kaggle.com/code/moizkhan11/30-days-ml-competition |<br />
 | 3. | Housing Price Competition | • Regression | • Random Forest | https://www.kaggle.com/code/moizkhan11/exercise-house-price-top-15 | <br />
 | 4. | BCG Academic | • Energy and Electricity |  | https://github.com/Moiz-khan/Data_Science/tree/master/Internships/BCG_academicWork_Internship | <br />
