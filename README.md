@@ -2,9 +2,16 @@
 Contain all measure projects of data science
 
 These are my top notebooks. I have covered alot of machine learning and deep learning algorithms. 
-
+https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/Exploratory%20Data%20Analysis%20PowerCo%20.ipynb
 ## Data Science Projects
-### 1. Machine Learning
+### 1. Data Analytics:
+| **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
+| ------------ | ------------- | ------------ | -------------| ------------- |
+| 1. | Pakistan Covid19 Dashboard | • Self project  | • Pakistan Covid 19  | https://github.com/Moiz-khan/Django_Covid_dashboard | <br />
+| 2. | BCG Analytics | • Academic Work | • Electricity and Gas  | 1. https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_starter.ipynb 2. https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_model_answer.ipynb
+3. https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/Exploratory%20Data%20Analysis%20PowerCo%20.ipynb | <br />
+
+### 2. Machine Learning
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | Sastaticket Competition- **2nd Runnerup** | • Time Series | LSTM  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
@@ -13,27 +20,27 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 | 4. | BCG Academic | • Energy and Electricity |  | https://github.com/Moiz-khan/Data_Science/tree/master/Internships/BCG_academicWork_Internship | <br />
 
 
-### 2. Recommendation Engine
+### 3. Recommendation Engine
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | Movie Recommender with KNN | • tmdb_5000 credits | KNN  | - | <br />
 | 2. | Content based Movie Recommender | • tmdb_5000 movies | • sigmoid score  • TfidfVectorizer | - | <br />
 | 3. | Movie Recommender with CSR | • tmdb_5000 movies | • cosine similarity | - | <br />
 
-### 3. Deep Leanring
+### 4. Deep Leanring
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | UltraMnist | Complex Images with many numbers • Classification | • CNN | Update Soon | <br />
 | 2. | Digit Recognizer | Number Image • Classification | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |<br />
 | 3. | Pakistan Stock Exchange (KSE 100) | Time Series | • LSTM | https://www.kaggle.com/code/moizkhan11/pakistanstockexch |<br/>
 
-### 4. Natural Language Processing
+### 5. Natural Language Processing
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | Self Learning | • Product Reviews classification •SPAM classification | •Pretrained Bert • Fine-Tuning Bert  | 1. https://colab.research.google.com/drive/1cplJE-1lEK3P0HuPgAnZFcX_2lTJHlcy#scrollTo=4IYEcsvJpR2A <br />2. https://colab.research.google.com/drive/187pa9OGauupyUWNB-xg2d8RXp1dvQcrM | <br />
 
 
-### 5. Research
+### 6. Research
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | LSTM Research | • Pakistan Stock Exchange | LSTM  | https://github.com/Moiz-khan/Data_Science/tree/master/LSTM_Research | <br />
