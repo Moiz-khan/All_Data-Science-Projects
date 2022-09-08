@@ -8,7 +8,9 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | Pakistan Covid19 Dashboard | • Self project  | • Pakistan Covid 19  | https://github.com/Moiz-khan/Django_Covid_dashboard | <br />
-| 2. | BCG Analytics | • Academic Work | • Electricity and Gas  | 1. https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_starter.ipynb 2. https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_model_answer.ipynb 3. https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/Exploratory%20Data%20Analysis%20PowerCo%20.ipynb | <br />
+| 2. | BCG Analytics | • Academic Work | • Electricity and Gas  | 1. https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_starter.ipynb 
+2. https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_model_answer.ipynb 
+3. https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/Exploratory%20Data%20Analysis%20PowerCo%20.ipynb | <br />
 
 ### 2. Machine Learning
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
