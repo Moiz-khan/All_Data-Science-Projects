@@ -27,7 +27,7 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 | 2. | Content based Movie Recommender | • tmdb_5000 movies | • sigmoid score  • TfidfVectorizer | - | <br />
 | 3. | Movie Recommender with CSR | • tmdb_5000 movies | • cosine similarity | - | <br />
 
-### 4. Deep Leanring
+### 4. Deep Learning
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | UltraMnist | Complex Images with many numbers • Classification | • CNN | Update Soon | <br />
