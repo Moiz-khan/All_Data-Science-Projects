@@ -35,7 +35,7 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 | 1. | Movie Recommender with KNN | • tmdb_5000 credits | KNN  | https://github.com/Moiz-khan/Recommendation-System/blob/master/%20Movie%20recommender%20with%20KNN.ipynb | <br />
 | 2. | Content based Movie Recommender | • tmdb_5000 movies | • sigmoid score  • TfidfVectorizer | https://github.com/Moiz-khan/Recommendation-System/blob/master/Content%20based%20Recommendation%20System.ipynb | <br />
 | 3. | Movie Recommender with CSR | • tmdb_5000 movies | • cosine similarity | - | <br />
-| 4. | Book Recommendion System | • book rating and reviews | • Hybrid Filtering | https://github.com/Moiz-khan/Recommendation-System/tree/master/Book%20Recommendation | <br />
+| 4. | Book Recommendion System in FYP | • book rating and reviews | • Hybrid Filtering | https://github.com/Moiz-khan/Recommendation-System/tree/master/Book%20Recommendation | <br />
 
 ### 4. Deep Learning
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
