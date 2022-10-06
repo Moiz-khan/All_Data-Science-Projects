@@ -7,12 +7,11 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
  | **Skills** | 
  | ------------- | 
  | •Python •C/C++ •Excel 
- •SQL •Mongodb •SQLite •MYSQL
-•IBM DB2 
+ •SQL •Mongodb •SQLite •MYSQL •IBM DB2 
 •Machine Learning •NLP
 •Scikit-Learn •Tensorflow •numpy
-•Pandas •Matplotlib •Seaborn
-•Selenium •BeautifulSoup •Git •GitHub 
+•Pandas •Matplotlib •Seaborn •Selenium •BeautifulSoup 
+•Git •GitHub 
 •Django •Flask •HTML •CSS | 
 
 ## Data Science Projects
