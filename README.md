@@ -44,7 +44,6 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 | 2. | Digit Recognizer | Number Image • Classification | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |<br />
 | 3. | Pakistan Stock Exchange (KSE 100) | Time Series | • LSTM | https://www.kaggle.com/code/moizkhan11/pakistanstockexch |<br/>
 
-https://www.kaggle.com/code/moizkhan11/imdb50k-movie-review-classification
 ### 5. Natural Language Processing
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
