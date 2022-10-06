@@ -2,7 +2,6 @@
 Contain all measure projects of data science
 
 These are my top notebooks. I have covered alot of machine learning and deep learning algorithms. 
-## Data Science Projects
 
  | **Skills** | 
  | ------------- | 
