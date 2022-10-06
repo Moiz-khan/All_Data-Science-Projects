@@ -34,12 +34,13 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 | 2. | Digit Recognizer | Number Image • Classification | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |<br />
 | 3. | Pakistan Stock Exchange (KSE 100) | Time Series | • LSTM | https://www.kaggle.com/code/moizkhan11/pakistanstockexch |<br/>
 
-
+https://www.kaggle.com/code/moizkhan11/imdb50k-movie-review-classification
 ### 5. Natural Language Processing
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | Self Learning | • Product Reviews classification •SPAM classification | •Pretrained Bert • Fine-Tuning Bert  | 1. https://colab.research.google.com/drive/1cplJE-1lEK3P0HuPgAnZFcX_2lTJHlcy#scrollTo=4IYEcsvJpR2A <br />2. https://colab.research.google.com/drive/187pa9OGauupyUWNB-xg2d8RXp1dvQcrM | <br />
-| 2. | Fake News Classification | •Fake News (kaggle) | •LSTM b/c of context switching  | https://www.kaggle.com/code/moizkhan11/fakenews-classifier |
+| 2. | IMDB50k Movie Review Classification | •IMDB50k Movie Review (kaggle) | •MultinomialNB •TF-IDF  | https://www.kaggle.com/code/moizkhan11/imdb50k-movie-review-classification |
+| 3. | Fake News Classification | •Fake News (kaggle) | •LSTM b/c of context switching  | https://www.kaggle.com/code/moizkhan11/fakenews-classifier |
 
 ### 6. Research
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
