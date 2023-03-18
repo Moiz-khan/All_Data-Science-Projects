@@ -5,18 +5,18 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 
  | **Skills** | 
  | ------------- | 
- | •Python •C/C++ •Excel 
- •SQL •SQLServer •Mongodb •SQLite •MYSQL •IBM DB2 
+ | •Python •C/C++ •Excel •Tableau •PowerBI
+ •SQL •MYSQL •SQLite •Google BigQuery •IBM DB2 •SQLServer •Mongodb 
 •Machine Learning •NLP •Hugging Face
 •Scikit-Learn •Tensorflow •numpy •Pandas •Matplotlib •Seaborn •Selenium •BeautifulSoup 
 •Git •GitHub 
-•Django •Flask •HTML •CSS | 
+•Django •FastAPIs •Flask •HTML •CSS •JS | 
 
 ## Data Science Projects
 ### 1. Data Analytics:
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| 
-| 1. | **Coursera Capstone project** Bike Sharing | • Capstone Project • Bike Share from Google AWS acccount | Dashboard Link - https://public.tableau.com/app/profile/moiz4077/viz/DavvyCycling-Dashboard/Dashboard1 Repo Link -  | <br />
+| 1. | **Coursera Capstone project** Bike Sharing | • Capstone Project • Bike Share from Google AWS acccount | Dashboard Link - https://public.tableau.com/app/profile/moiz4077/viz/DavvyCycling-Dashboard/Dashboard1 Recommendations- https://docs.google.com/presentation/d/11uw6N0GZG43oouIovID1VZgOCOxh-Yy190K2FLTCrGs/edit#slide=id.p Repo Link -  | <br />
 | 2. | BCG Analytics | • Academic Work • Electricity and Gas | • https://github.com/Moizkhan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_starter.ipynb • https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_model_answer.ipynb • https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/Exploratory%20Data%20Analysis%20PowerCo%20.ipynb | <br />
 | 3. | Dastgyr Case Study | • Dastgyr business • Python • SQL | • https://github.com/Moiz-khan/Dastgyr_casestudy  | <br />
 | 4. | Pakistan Covid19 Dashboard | • Self project • Pakistan Covid 19 | https://github.com/Moiz-khan/Django_Covid_dashboard | <br />
