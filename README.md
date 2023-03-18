@@ -16,9 +16,10 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 ### 1. Data Analytics:
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| 
-| 1. | Pakistan Covid19 Dashboard | • Self project • Pakistan Covid 19 | https://github.com/Moiz-khan/Django_Covid_dashboard | <br />
+| 1. | **Coursera Capstone project** Bike Sharing | • Capstone Project • Bike Share from Google AWS acccount | link here | <br />
 | 2. | BCG Analytics | • Academic Work • Electricity and Gas | • https://github.com/Moizkhan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_starter.ipynb • https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_model_answer.ipynb • https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/Exploratory%20Data%20Analysis%20PowerCo%20.ipynb | <br />
 | 3. | Dastgyr Case Study | • Dastgyr business • Python • SQL | • https://github.com/Moiz-khan/Dastgyr_casestudy  | <br />
+| 4. | Pakistan Covid19 Dashboard | • Self project • Pakistan Covid 19 | https://github.com/Moiz-khan/Django_Covid_dashboard | <br />
 
 ### 2. Machine Learning
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Model** | **Notebook/Git Repo Links** |
