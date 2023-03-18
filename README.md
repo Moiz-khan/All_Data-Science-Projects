@@ -16,7 +16,7 @@ These are my top notebooks. I have covered alot of machine learning and deep lea
 ### 1. Data Analytics:
 | **S.No** | **Competitions/Repo Name** |  **Dataset** | **Notebook/Git Repo Links** |
 | ------------ | ------------- | ------------ | -------------| 
-| 1. | **Coursera Capstone project** Bike Sharing **Case Study** | • Capstone Project • Bike Share from Google AWS acccount | Dashboard Link - https://public.tableau.com/app/profile/moiz4077/viz/DavvyCycling-Dashboard/Dashboard1 Recommendations- https://docs.google.com/presentation/d/11uw6N0GZG43oouIovID1VZgOCOxh-Yy190K2FLTCrGs/edit#slide=id.p Repo Link -  | <br />
+| 1. | **Coursera Capstone project** Bike Sharing **Case Study** | • Capstone Project • Bike Share from Google AWS acccount | Dashboard Link - https://public.tableau.com/app/profile/moiz4077/viz/DavvyCycling-Dashboard/Dashboard1 Repo Link - https://github.com/Moiz-khan/Divvy_bike_sharing_casestudy_Google | <br />
 | 2. | BCG Analytics | • Academic Work • Electricity and Gas | • https://github.com/Moizkhan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_starter.ipynb • https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/eda_model_answer.ipynb • https://github.com/Moiz-khan/Data_Science/blob/master/Internships/BCG_academicWork_Internship/Module2/Exploratory%20Data%20Analysis%20PowerCo%20.ipynb | <br />
 | 3. | Dastgyr Case Study | • Dastgyr business • Python • SQL | • https://github.com/Moiz-khan/Dastgyr_casestudy  | <br />
 | 4. | Pakistan Covid19 Dashboard | • Self project • Pakistan Covid 19 | https://github.com/Moiz-khan/Django_Covid_dashboard | <br />
